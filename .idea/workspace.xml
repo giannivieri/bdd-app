@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f7010c7-8dd6-4fbc-96a9-e621875d8623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bdd-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c89777a2-32af-4ec7-a971-972f828b77b3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c89777a2-32af-4ec7-a971-972f828b77b3/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/home.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/home_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/devise.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190415224016_devise_create_users.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190415230427_add_confirmable_to_devise.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/authentication.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/book_inventory.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/step_definitions/authentication_steps.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/step_definitions/book_inventory_steps.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/factories/users.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/helpers/home_helper_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/models/user_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/support/env.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/env.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
-    </list>
+    <list default="true" id="3f7010c7-8dd6-4fbc-96a9-e621875d8623" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -68,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/book_inventory_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/authentication_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -327,16 +294,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555356653215</updated>
-      <workItem from="1555356654891" duration="6619000" />
+      <workItem from="1555356654891" duration="6861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6619000" />
+    <option name="totallyTimeSpent" value="6861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="779" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
@@ -421,13 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/authentication_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -521,6 +480,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/authentication_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
